@@ -1,0 +1,53 @@
+body {
+    height: 1100px;
+    width: 760px;
+    border: 1px solid black;
+    margin-left: 21%;
+    font-family: Arial, sans-serif;
+    font-size: 12px;
+}
+
+.header {
+    padding: 8px 10px;
+}
+
+.header h1 {
+    font-size: 20px;
+}
+
+.header h2 {
+    color: red;
+    font-size: 17px;
+}
+
+.section {
+    padding: 8px 10px;
+    line-height: 1.7;
+}
+
+.section h2 {
+    color: green;
+    font-size: 17px;
+}
+
+.table {
+    height: auto;
+    width: 100%;
+}
+
+.photo {
+    text-align: right;
+}
+
+.photo img {
+    height: 150px;
+}
+
+.blue-text {
+    color: blue;
+    font-size: 14px;
+}
+
+ul {
+    line-height: 1.7;
+}
